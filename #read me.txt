@@ -1,0 +1,13 @@
+Asa Borzabadi Farahani
+
+% IMAGES
+- To run the matlab codes please change the path so that the images could be loaded.
+- "railroad" and "skyscrapers" are the image files used in this study.
+
+% CODES
+- The code for question two is: "Q2_Edgedetection.m"
+- The code for question three - part A is: "Q3_Ransac.m"
+- The code for question three - part B is: "Q3_Ransac_partB.m"
+
+% REPORT
+- The report is available in pdf format and also in word format: "A1_Asa Borzabadi Farahani" 
